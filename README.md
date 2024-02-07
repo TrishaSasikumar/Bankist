@@ -1,10 +1,10 @@
 I've added two users with the following details!
 
-!! USERNAME : js
-!! PWD      : 1111
+USERNAME : js
+PWD      : 1111
 
-!! USERNAME : jd
-!! PWD      : 2222
+USERNAME : jd
+PWD      : 2222
 
 
 ////////////////////////
